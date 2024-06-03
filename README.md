@@ -45,9 +45,3 @@ MyShop is an Ecommerce web application built with Next.js and MongoDB.
 -   See `http://localhost:3000`
 
 
-<!-- CONTACT -->
-## Contact
-
-nonexistent - arowpk@gmail.com
-
-Project Link: [https://github.com/nonexistent/myShop-Ecommerce-website](https://github.com/nonexistent/myShop-Ecommerce-website)
